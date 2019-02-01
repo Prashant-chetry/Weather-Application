@@ -1,6 +1,6 @@
-=========================
+==========
 Weather Application
-=========================
+==========
 
 1. How It works
     a) First, We get the Location of the inputed address. we do this by using a request to a website(mapquest.com) and it gives
